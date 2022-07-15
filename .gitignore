@@ -1,3 +1,5 @@
 ### VS 2013 ###
 /bin/
 /obj/
+bin/
+obj/
